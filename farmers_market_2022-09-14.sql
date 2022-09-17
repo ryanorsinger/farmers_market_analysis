@@ -10,6 +10,9 @@
 # Generation Time: 2022-09-14 20:35:45 +0000
 # ************************************************************
 
+DROP DATABASE IF EXISTS farmers_market;
+CREATE DATABASE farmers_market;
+USE farmers_market;
 
 /*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
 /*!40101 SET @OLD_CHARACTER_SET_RESULTS=@@CHARACTER_SET_RESULTS */;
